@@ -25,15 +25,13 @@ class thief extends test{
         System.out.println("488888");
     }
     // @Override
-    // void atmpin(){
-    //     System.out.println("1155555555555");
-    // }
+ 
 
 }
 class Final{
     public static void main(String[] args) {
         thief obj1=new thief();
         obj1.mnumber();
-        // obj1.atmpin();
+        obj1.atmpin();
     }
 }
